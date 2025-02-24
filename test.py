@@ -1,3 +1,3 @@
 from PIL import Image
 import torch
-print("Tools ready!")
+print("Phyllotaxis art tools are locked and loaded!")
